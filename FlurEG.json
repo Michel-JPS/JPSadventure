@@ -5190,20 +5190,6 @@
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#ff5ebe"
-        }, 
-        {
-         "columns":16,
-         "firstgid":2904,
-         "image":"Klok\u00fcche.png",
-         "imageheight":768,
-         "imagewidth":768,
-         "margin":0,
-         "name":"Klok\u00fcche",
-         "spacing":0,
-         "tilecount":256,
-         "tileheight":48,
-         "tilewidth":48,
-         "transparentcolor":"#ff5ebe"
         }],
  "tilewidth":32,
  "type":"map",
